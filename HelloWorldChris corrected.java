@@ -1,5 +1,7 @@
-public class HelloWorldChris {
-    public static void main(String[] args) {
+public class HelloWorldChris 
+{
+    public static void main(String[] args) 
+    {
         String eyes = " I I";
         String mouth = "I___I";
         String frown = "/---/";
