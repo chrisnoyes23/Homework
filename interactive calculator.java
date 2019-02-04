@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class operators
+public class operatorss
 {
         public static void main(String[] args)
 
